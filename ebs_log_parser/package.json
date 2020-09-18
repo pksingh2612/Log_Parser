@@ -1,0 +1,19 @@
+{
+  "name": "ebs_log_parser",
+  "version": "1.0.0",
+  "description": "ebs_log_parser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "me"
+  },
+  "author": "pk",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "s3-access-log-parser": "0.0.2"
+  }
+}
