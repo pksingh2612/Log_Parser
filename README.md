@@ -1,6 +1,3 @@
-https://www.canva.com/design/DAEIKFZLJbk/e1CzZkysSzFzO9qU1RkvCA/view?utm_content=DAEIKFZLJbk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-
-
 # Log_Parser
 A log parser
 
